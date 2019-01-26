@@ -1,0 +1,14 @@
+{
+  "name": "strproto",
+  "version": "1.0.0",
+  "description": "streams processing prototype",
+  "main": "index.js",
+  "repository": "https://github.com/tdhb/strproto.git",
+  "author": "Terry Davis <tdavis0525@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "debug": "^4.1.1",
+    "lodash": "^4.17.11"
+  }
+}
