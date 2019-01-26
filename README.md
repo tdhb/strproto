@@ -1,0 +1,2 @@
+# strproto
+streams prototype 
